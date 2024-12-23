@@ -1,0 +1,7 @@
+Detecting clicks, key presses,
+and mouse movements:
+
+In Pygame to detect if a mouse moved, you can use pygame.MOUSEMOTION events. 
+To detect key presses check for pygame.KEY DOWN events. 
+To detect when you let go of the key, use pygame.KEY UP events.
+To detect when you click the x at the top right corner, use the pygame.event.QUIT event.
