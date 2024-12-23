@@ -1,0 +1,5 @@
+Drawing shapes
+
+You can use pygame.draw.rect() for a rectangle.
+for a circle pygame.draw.circle.
+You can also do pygame.draw.line for a line.
